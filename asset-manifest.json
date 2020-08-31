@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactassingment/static/css/main.a3b57f09.chunk.css",
+    "main.js": "/reactassingment/static/js/main.c38f1d30.chunk.js",
+    "main.js.map": "/reactassingment/static/js/main.c38f1d30.chunk.js.map",
+    "runtime-main.js": "/reactassingment/static/js/runtime-main.8dea30fa.js",
+    "runtime-main.js.map": "/reactassingment/static/js/runtime-main.8dea30fa.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/reactassingment/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.24d0b59c.chunk.js": "/reactassingment/static/js/2.24d0b59c.chunk.js",
+    "static/js/2.24d0b59c.chunk.js.map": "/reactassingment/static/js/2.24d0b59c.chunk.js.map",
+    "index.html": "/reactassingment/index.html",
+    "precache-manifest.53a86ebf15d3a8c923f2afdb70997cd7.js": "/reactassingment/precache-manifest.53a86ebf15d3a8c923f2afdb70997cd7.js",
+    "service-worker.js": "/reactassingment/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/reactassingment/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.a3b57f09.chunk.css.map": "/reactassingment/static/css/main.a3b57f09.chunk.css.map",
+    "static/js/2.24d0b59c.chunk.js.LICENSE.txt": "/reactassingment/static/js/2.24d0b59c.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.png": "/reactassingment/static/media/arrow-down.adfc2ab4.png",
+    "static/media/arrow-up.png": "/reactassingment/static/media/arrow-up.881e4ec8.png",
+    "static/media/landing-section-image.png": "/reactassingment/static/media/landing-section-image.5044cc0b.png",
+    "static/media/stunning-logo.png": "/reactassingment/static/media/stunning-logo.d43e2fd4.png",
+    "static/media/tick-blue.png": "/reactassingment/static/media/tick-blue.330ba7b0.png",
+    "static/media/tick-gray.png": "/reactassingment/static/media/tick-gray.289635cc.png",
+    "static/media/user-blue.png": "/reactassingment/static/media/user-blue.6bf196c5.png",
+    "static/media/user-orange.png": "/reactassingment/static/media/user-orange.29fbde9d.png",
+    "static/media/user-pink.png": "/reactassingment/static/media/user-pink.9f9b7199.png",
+    "static/media/user-red.png": "/reactassingment/static/media/user-red.aeb86ae0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dea30fa.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.24d0b59c.chunk.js",
+    "static/css/main.a3b57f09.chunk.css",
+    "static/js/main.c38f1d30.chunk.js"
+  ]
+}
