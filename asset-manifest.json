@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reactassingment/static/css/main.10f5fdf3.chunk.css",
-    "main.js": "/reactassingment/static/js/main.7c1c89f7.chunk.js",
-    "main.js.map": "/reactassingment/static/js/main.7c1c89f7.chunk.js.map",
+    "main.css": "/reactassingment/static/css/main.a53c3d7a.chunk.css",
+    "main.js": "/reactassingment/static/js/main.74b034e6.chunk.js",
+    "main.js.map": "/reactassingment/static/js/main.74b034e6.chunk.js.map",
     "runtime-main.js": "/reactassingment/static/js/runtime-main.8dea30fa.js",
     "runtime-main.js.map": "/reactassingment/static/js/runtime-main.8dea30fa.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/reactassingment/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b437ed9e.chunk.js": "/reactassingment/static/js/2.b437ed9e.chunk.js",
-    "static/js/2.b437ed9e.chunk.js.map": "/reactassingment/static/js/2.b437ed9e.chunk.js.map",
+    "static/js/2.128958ef.chunk.js": "/reactassingment/static/js/2.128958ef.chunk.js",
+    "static/js/2.128958ef.chunk.js.map": "/reactassingment/static/js/2.128958ef.chunk.js.map",
     "index.html": "/reactassingment/index.html",
-    "precache-manifest.b0ec2c2f75759a141d04331297969979.js": "/reactassingment/precache-manifest.b0ec2c2f75759a141d04331297969979.js",
+    "precache-manifest.8e3129fbddd91e94cc39165f5ad41e88.js": "/reactassingment/precache-manifest.8e3129fbddd91e94cc39165f5ad41e88.js",
     "service-worker.js": "/reactassingment/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/reactassingment/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.10f5fdf3.chunk.css.map": "/reactassingment/static/css/main.10f5fdf3.chunk.css.map",
-    "static/js/2.b437ed9e.chunk.js.LICENSE.txt": "/reactassingment/static/js/2.b437ed9e.chunk.js.LICENSE.txt",
+    "static/css/main.a53c3d7a.chunk.css.map": "/reactassingment/static/css/main.a53c3d7a.chunk.css.map",
+    "static/js/2.128958ef.chunk.js.LICENSE.txt": "/reactassingment/static/js/2.128958ef.chunk.js.LICENSE.txt",
     "static/media/arrow-down.png": "/reactassingment/static/media/arrow-down.adfc2ab4.png",
     "static/media/arrow-up.png": "/reactassingment/static/media/arrow-up.881e4ec8.png",
     "static/media/landing-section-image.png": "/reactassingment/static/media/landing-section-image.5044cc0b.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.8dea30fa.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b437ed9e.chunk.js",
-    "static/css/main.10f5fdf3.chunk.css",
-    "static/js/main.7c1c89f7.chunk.js"
+    "static/js/2.128958ef.chunk.js",
+    "static/css/main.a53c3d7a.chunk.css",
+    "static/js/main.74b034e6.chunk.js"
   ]
 }
