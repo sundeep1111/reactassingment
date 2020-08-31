@@ -1,0 +1,15 @@
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(153 149 149) !important;
+  font-weight: 600; background-image: linear-gradient(180deg, transparent 90%, #5243C0 0);
+  background-repeat: no-repeat;
+  background-size: 0 100%;
+  transition: background-size .4s ease;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(8, 1, 1, 0.75);
+  background-size: 100% 100%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1.5rem !important;
+  padding-left: 1.5rem !important;
+}
