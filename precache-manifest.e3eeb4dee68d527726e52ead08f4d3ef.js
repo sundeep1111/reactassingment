@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17cfe48ee71a9c00a15a841d49e37118",
+    "revision": "eb7baebf073fa55a1a24a81f52e19fc3",
     "url": "/reactassingment/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactassingment/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "b0d9a8f5cbf3f3615ba0",
+    "revision": "ad955fae84d2ae76ecaf",
     "url": "/reactassingment/static/css/main.a53c3d7a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactassingment/static/js/2.128958ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0d9a8f5cbf3f3615ba0",
-    "url": "/reactassingment/static/js/main.74b034e6.chunk.js"
+    "revision": "ad955fae84d2ae76ecaf",
+    "url": "/reactassingment/static/js/main.61a23dd9.chunk.js"
   },
   {
     "revision": "beab1882a6fc6fa68d5f",
